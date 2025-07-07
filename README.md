@@ -14,3 +14,6 @@
 - npm install
 ### Pokreni
 - npm run dev
+
+*lfm95919@jioso.com*
+*chp_eyJrZXkiOiJzMmVtbXFnNGo1MnJhaTBxdGpnY2FnZmt2dGpyejJtbmxpdmZqdGxjcGU0ZGsxdjA4anpwIn0=I3juQA*
